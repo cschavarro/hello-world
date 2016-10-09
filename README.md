@@ -1,3 +1,2 @@
-# hello-world
-* Example of a Readme
-It's an interesting thing to do!
+# Example of a Readme: Hello World
+* It's an interesting thing to do!
