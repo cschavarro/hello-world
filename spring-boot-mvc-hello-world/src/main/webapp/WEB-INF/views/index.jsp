@@ -8,5 +8,8 @@
 	</head>
 	<body>
 		<h1>JSP hello Word</h1>
+		<div style="display: block-inline;">
+			<a href="hello">Ir a Welcome</a>
+		</div>
 	</body>
 </html>
